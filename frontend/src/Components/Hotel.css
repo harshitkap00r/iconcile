@@ -1,0 +1,26 @@
+.hotel-title {
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-weight: 1000;
+    margin-bottom: 2rem;
+}
+
+.hotel-image {
+    height: 20rem;
+    border-radius: 1rem;
+}
+
+.hotel-detail-info {
+    display: flex;
+    flex-direction: row;    
+    gap: 2rem;
+    margin: 1% 30%; 
+}
+
+.hotel-button {
+    border-radius: 1rem;
+    height: 3rem;
+    width: 6rem;
+    background-color: lightskyblue;
+    cursor: pointer;
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel A",
+        "price": 100,
+        "location": "Bangalore",
+        "rating": 4,
+        "availableRoom": 10,
+        "visitCount": 0,
+        "image": "https://149345965.v2.pressablecdn.com/wp-content/uploads/img-hotels-country-inn-hotel.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hotel B",
+        "location": "Delhi",
+        "price": 120,
+        "rating": 3.5,
+        "availableRoom": 8,
+        "visitCount": 0,
+        "image": "https://149345965.v2.pressablecdn.com/wp-content/uploads/img-hotels-IADGV_006-Dusk-Exterior-home.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hotel C",
+        "location": "Lucknow",
+        "price": 80,
+        "rating": 4.5,
+        "availableRoom": 16,
+        "visitCount": 0,
+        "image": "https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Hotel D",
+        "location": "Noida",
+        "price": 150,
+        "rating": 4.5,
+        "availableRoom": 4,
+        "visitCount": 0,
+        "image": "https://images.pexels.com/photos/2878785/pexels-photo-2878785.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+]   

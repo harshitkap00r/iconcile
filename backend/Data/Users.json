@@ -1,0 +1,1 @@
+[{"id":1,"name":"User1","booked":[]},{"id":2,"name":"User2","booked":[]},{"id":3,"name":"User3","booked":[]},{"id":4,"name":"User4","booked":["Hotel A","Hotel A"]},{"id":5,"name":"User5","booked":[]}]

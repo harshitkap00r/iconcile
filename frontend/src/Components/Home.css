@@ -1,0 +1,55 @@
+.home-title {
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-weight: 1000;
+    margin-bottom: 3rem;
+}
+
+.home-hotel {
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: 1rem 25rem;
+    display: flex;
+    padding: .5rem;
+    /* justify-content: center; */
+    gap: 4rem;
+}
+
+.home-hotel:hover {
+    transform: scale(1.1);
+}
+
+.home-hotel-info {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+}
+
+.home-hotel-image {
+    border-radius: 1rem;
+    height: 12rem;
+    width: 20rem;
+}
+
+.home-hotel-name {
+    font-size: 2rem;
+    font-weight: 500; 
+}
+
+.home-hotel-book {
+    cursor: pointer;
+    border-radius: 1rem;
+    border: none;
+    padding: .5rem;
+    background-color:lightseagreen;
+
+}
+
+.my-booking {
+    border-radius: 1rem;
+    border: none;
+    height: 3rem;
+    width: 10rem;
+    background-color: lightcoral;
+    cursor: pointer;
+}
